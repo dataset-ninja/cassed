@@ -29,9 +29,9 @@ CATEGORY: Category = Category.SelfDriving()
 CV_TASKS: List[CVTask] = [CVTask.SemanticSegmentation()]
 ANNOTATION_TYPES: List[AnnotationType] = [AnnotationType.SemanticSegmentation()]
 
-RELEASE_DATE: Optional[str] = "2022-02-24"  # e.g. "YYYY-MM-DD"
+RELEASE_DATE: Optional[str] = None  # e.g. "YYYY-MM-DD"
 if RELEASE_DATE is None:
-    RELEASE_YEAR: int = None
+    RELEASE_YEAR: int = 2022
 
 HOMEPAGE_URL: str = "https://www.cavs.msstate.edu/resources/autonomous_dataset.php"
 # e.g. "https://some.com/dataset/homepage"
