@@ -1,5 +1,3 @@
+The **CaSSeD: Real World Data** dataset is a part of the **CaSSeD: CAVS Semantic Segmentation Dataset for Off-Road Autonomous Driving** comprised of two sets of segmentation data specially targeted for the unstructured, off-road driving environment. The presented one is a real-world semantic segmentation dataset with 1700 images that were collected at the CAVS proving grounds, which is a 55-acre area with trails, hills, obstacles, dense vegetation, similar to a forest environment. Data were collected during winter 2018 and summer 2019 using a Sekonix SF3325-100 GMSL camera mounted on the top of a Polaris Ranger crew XP100, capturing imagery at 10 frames per second. The images are semantically labeled using classes such as *smooth trail*, *rough trail*, *small vegetation*, *forest*, *sky*, and *obstacles*.
 
-Sample image template:
-<img src="https://github.com/dataset-ninja/gland-segmentation/assets/78355358/f158d0dd-71d5-41a2-aba5-4a5f57d54c35" alt="image" width="800">
-
-<span style="font-size: smaller; font-style: italic;">Image description.</span>
+<i>Please Note, that the actual number of images differ from the the claimed by the authors</i>
