@@ -17,7 +17,7 @@ PROJECT_NAME: str = "CaSSeD: Real World Data"
 PROJECT_NAME_FULL: str = (
     "CaSSeD: CAVS Semantic Segmentation Dataset for Off-Road Autonomous Driving (Real World Data)"
 )
-HIDE_DATASET = True  # set False when 100% sure about repo quality
+HIDE_DATASET = False  # set False when 100% sure about repo quality
 
 ##################################
 # * After uploading to instance ##
